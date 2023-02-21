@@ -18,7 +18,7 @@ Simulation code of the paper:
 1. Federated Multi-Agent Reinforcement Learning
     + Set ***federated_communication = True***
     + You can also change the activation function to have either a linear or nonlinear function approximation model.
-        + Set ***activation=Relu***
+        + Set ***activation=Relu***, ***elu*** or ***leaky_relu*** for nonlinear function approximation or set ***activation=linear*** otherwise.
 2. Decentralized Multi-Agent Reinforcement Learning
 3. Sum-capacity optimization
 4. Max-Min optimization
