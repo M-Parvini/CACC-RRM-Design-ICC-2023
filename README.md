@@ -16,8 +16,8 @@ Simulation code of the paper:
 ### Algorithms that you can evaluate:
 ```
 1. Federated Multi-Agent Reinforcement Learning
-    - Set federated_communication = True
-    + You can also change the activation function to have either a linear or nonlinear function approximation model.
+    * Set federated_communication = True
+    * You can also change the activation function to have either a linear or nonlinear function approximation model.
 2. Decentralized Multi-Agent Reinforcement Learning
 3. Sum-capacity optimization
 4. Max-Min optimization
