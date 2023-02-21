@@ -12,7 +12,11 @@ Simulation code of the paper:
     3) It is recommended that the latest drivers be installed for the GPU.
 
 ***
-
+* Item 1
+* Item 2
+* Item 3
+  * Sub Item A
+  * Sub Item B
 ### Algorithms that you can evaluate:
 
 ```
