@@ -12,16 +12,12 @@ Simulation code of the paper:
     3) It is recommended that the latest drivers be installed for the GPU.
 
 ***
-* Item 1
-* Item 2
-* Item 3
-  * Sub Item A
-  * Sub Item B
+
 ### Algorithms that you can evaluate:
 
 1. Federated Multi-Agent Reinforcement Learning
-    * Set federated_communication = True
-    * You can also change the activation function to have either a linear or nonlinear function approximation model.
+    + Set federated_communication = True
+    + You can also change the activation function to have either a linear or nonlinear function approximation model.
 2. Decentralized Multi-Agent Reinforcement Learning
 3. Sum-capacity optimization
 4. Max-Min optimization
